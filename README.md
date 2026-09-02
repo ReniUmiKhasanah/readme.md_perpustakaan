@@ -4,10 +4,15 @@
 
 Dibangun dengan **PHP Native (MySQLi)**, **MySQL**, **Bootstrap 5**, **Tailwind CSS**, dan **JavaScript**.
 
-**Live Demo:** [Lihat live demo](perpustakaandigital.infinityfree.io)
-**Mockup:** [Lihat Mockup](mockup.html)
-**Use Case Diagram:** [Lihat Use Case Diagram](usecase-diagram.html)
-**Flowchart:** [Lihat flowchart](mockup.html)
+**Live Demo:** [https://perpustakaandigitalilmu.infinityfreeapp.com](https://perpustakaandigitalilmu.infinityfreeapp.com)
+
+**Mockup:** [Lihat Mockup](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/mockup_ukk.jpg)
+
+**Use Case Diagram:** [Lihat Use Case Diagram](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/usecase_diagram.jpg)
+
+**Flowchart:** [Lihat Flowchart](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/flowchart.png)
+
+**ERD:** [Lihat ERD](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/ERD-PERPUSTAKAAN.png)
 
 
 ---

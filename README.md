@@ -4,9 +4,11 @@
 
 Dibangun dengan **PHP Native (MySQLi)**, **MySQL**, **Bootstrap 5**, **Tailwind CSS**, dan **JavaScript**.
 
-**Live Demo:** *perpustakaandigital.infinityfree.io*
+**Live Demo:** [Lihat live demo](perpustakaandigital.infinityfree.io)
 **Mockup:** [Lihat Mockup](mockup.html)
 **Use Case Diagram:** [Lihat Use Case Diagram](usecase-diagram.html)
+**Flowchart:** [Lihat flowchart](mockup.html)
+
 
 ---
 

@@ -4,9 +4,9 @@
 
 Dibangun dengan **PHP Native (MySQLi)**, **MySQL**, **Bootstrap 5**, **Tailwind CSS**, dan **JavaScript**.
 
-**Live Demo:** [https://perpustakaandigitalilmu.infinityfreeapp.com](https://perpustakaandigitalilmu.infinityfreeapp.com)
+**Live Demo:** [https://perpustakaandigital.infinityfree.io](https://perpustakaandigital.infinityfree.io)
 
-**Mockup:** [Lihat Mockup](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/mockup_ukk.jpg)
+**Mockup:** [Lihat Mockup](https://raw.githubusercontent.com/ReniUmiKhasanah/readme.md_perpustakaan/refs/heads/main/mockup.jpg)
 
 **Use Case Diagram:** [Lihat Use Case Diagram](https://raw.githubusercontent.com/ReniUmiKhasanah/readme.md_perpustakaan/refs/heads/main/usecase.jpg)
 

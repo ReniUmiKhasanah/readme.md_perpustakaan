@@ -10,7 +10,7 @@ Dibangun dengan **PHP Native (MySQLi)**, **MySQL**, **Bootstrap 5**, **Tailwind 
 
 **Use Case Diagram:** [Lihat Use Case Diagram](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/usecase_diagram.jpg)
 
-**Flowchart:** [Lihat Flowchart](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/flowchart.png)
+**Flowchart:** [Lihat Flowchart](https://raw.githubusercontent.com/ReniUmiKhasanah/readme.md_perpustakaan/refs/heads/main/flow.jpg)
 
 **ERD:** [Lihat ERD](https://raw.githubusercontent.com/Annajwaannuryaqni/readme-perpustakaandigitalilmu/refs/heads/main/ERD-PERPUSTAKAAN.png)
 
